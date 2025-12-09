@@ -45,7 +45,7 @@ export default function Home() {
                             yesPrice={market.yesPrice}
                             volume={`$${(market.volume / 1000).toFixed(1)}k`}
                             endTime={new Date(market.endTime).toLocaleDateString()}
-                            image={market.image}
+                            image={market.image || "/placeholder.png"}
                         />
                     ))
                 ) : (

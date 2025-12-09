@@ -1,8 +1,6 @@
 # MEMECLASH 🐸⚔️
 > **The First Permissionless Creator-Owned Prediction Market on Solana.**
 
-![MemeClash Banner](/public/banner.png)
-
 ## 🚨 The Problem
 Prediction markets today are **boring** and **gatekept**.
 - **Centralized**: Only the platform decides what you can bet on.
